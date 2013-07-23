@@ -1,0 +1,87 @@
+
+		A:link {text-decoration: none; color: #8258FA;}
+		A:visited {text-decoration: none; color: #8258FA;}
+		A:active {text-decoration: none; color: #8258FA;}
+		A:hover {text-decoration: underline; color: #8258FA;}
+		body{
+		color: #BDBDBD;
+		}
+		
+		#menu{
+		border: 1px solid #000000;
+		-moz-border-radius: 7px;
+		-webkit-border-radius: 7px;
+		padding: 10px;
+		color: black;
+		background-color: black;
+		
+		}
+		
+		#cuerpo{
+		-moz-border-radius: 7px;
+		-webkit-border-radius: 7px;
+		padding: 10px;
+
+		
+		}
+		
+		
+		#secciones{
+		padding: 10px;
+		
+		-moz-border-radius: 7px;
+		-webkit-border-radius: 7px;
+		list-style-type: none;
+		
+		}
+		#contenidos{
+		padding: 10px;
+		
+		-moz-border-radius: 7px;
+		-webkit-border-radius: 7px;
+		float: left;
+		
+		}	
+		
+		#imagen{
+		background-image: url("img/alive.png");
+		background-position: center;
+		height: 705;
+		}
+
+ 		table {
+  border-collapse: collapse;
+  border: 1px solid #666666;
+  color: #363636;
+  background: #f6f6f6;
+  text-align:left;
+  }
+caption {
+  text-align: center;
+  font: bold 16px arial, helvetica, sans-serif;
+  background: transparent;
+  padding:6px 4px 8px 0px;
+  color: #CC00FF;
+  text-transform: uppercase;
+}
+thead, tfoot {
+background:url(bg1.png) repeat-x;
+text-align:left;
+height:30px;
+}
+thead th, tfoot th {
+padding:5px;
+}
+table a {
+color: #333333;
+text-decoration:none;
+}
+table a:hover {
+text-decoration:underline;
+}
+tr.odd {
+background: #f1f1f1;
+}
+tbody th, tbody td {
+padding:5px;
+}
